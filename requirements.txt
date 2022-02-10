@@ -1,5 +1,5 @@
-Werkzeug==0.14.1
-Flask==1.0.2
-eth_account==0.3.0
-Flask_HTTPAuth==3.3.0
-secrets==1.0.2
+Werkzeug
+Flask
+eth_account
+Flask_HTTPAuth
+
